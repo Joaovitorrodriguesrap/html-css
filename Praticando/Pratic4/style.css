@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+body {
+    background-color: #012E40;
+    color: white;
+}
+
+.tituloprin {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    background-color: #026773;
+    height: 800px;
+    width: 1197px;
+    margin: auto;
+    box-shadow: 1px 1px 17px black;
+    border-radius: 30px;
+}
+
+.videos {
+    padding: 30px;
+}
+
+.imagem {
+    height: 300px;
+    width: 300px;
+    padding: 30px;
+}
+
+.logosdi {
+    height: 255px;
+    width: 386px;
+    padding: 1px 1px 1px 30px;
+}
+
+.logoses {
+    height: 255px;
+    width: 386px;
+    padding: 1px 1px 1px 30px;
+}
+
+
+#tituloia {
+    color: black;
+    padding: 1px 1px 1px 30px;
+}
+
+#titulomax {
+    color: black;
+    padding: 1px 1px 1px 30px;
+}
+
+.subtitulo {
+    text-align: center;
+    padding: 10px;
+}
+
+span {
+   display: inline;
+}

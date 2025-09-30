@@ -1,0 +1,20 @@
+Formatos de video
+
+mp4 / m4v / webm / ogv |
+
+Para colocar videos em um site use 
+
+    <title>Videos com HTML5</title>
+</head>
+<body>
+    <h1>Inserindo videos hospedados localmente</h1>
+    <p>Este video esta hospedado no meu proprio servidor</p>
+   <video poster="imagens/download.png" width="500" controls> (poster="" para colocar uma capa / width="" para colocar um tamanho especifico de video no site, isso não altera o tamanho em bits do video e contros para poder dar play e diminuir o som e etc)
+     <source src="midia/meuvideo2.mp4.mp4" type="video/mp4">
+     <source src="midia/meuvideo2.m4v.m4v" type="video/m4v">
+     <source src="midia/meuvideo2.ogv.ogv" type="video/ogg"> (type="" para poder rodar certo tipos de arquivos em navegadores diferentes)
+    <p>seu navegador não tem compatibilidade com a reprodução de videos</p>
+   </video>
+</body>
+</html>
+

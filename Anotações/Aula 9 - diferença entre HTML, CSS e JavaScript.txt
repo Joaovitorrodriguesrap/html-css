@@ -1,0 +1,25 @@
+HTML | HyperText Markup Language | Conteúdo( Textos, Imagens, Videos, Tabelas)
+
+
+CSS  | Cascading Style Sheets | Design(Cores, Sombras, Tamanhos, Posicionamento)
+
+
+JavaScript | interações(Menus, Animações, popups, validações) 
+
+
+Conteudo em HTML 
+
+<h1>  Exemplo de titulo  </h1>   
+
+<p> Exemplo de paragrafo </p>
+
+<img src="foto.png" alt="exemplo de foto">
+
+Estilo em CSS
+
+h1{
+   font-family: Arial;
+   font-size: 20pt;
+   color:blue;
+  }
+
