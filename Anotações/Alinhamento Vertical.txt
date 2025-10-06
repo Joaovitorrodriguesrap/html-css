@@ -1,0 +1,1 @@
+Para fazer o alinhamento vertical é nescessario usar position: absolute; no bloco de config de uma id, usando o position: absolute; ficará liberado o Left: e Top:
